@@ -22,7 +22,7 @@ Thumbs.db
 .idea
 
 node_modules
-dist
+# dist
 .tmp
 app/bower_components
 validation-report.json

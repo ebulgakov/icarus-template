@@ -7901,6 +7901,16 @@ button.close {
     display: none !important;
   }
 }
+.box-intro {
+  background: #dedede;
+  padding: 10px;
+}
+.box-intro h1 {
+  font-size: 40px;
+}
+.box-intro p {
+  margin: 2em 0;
+}
 /*
 Icon classes can be used entirely standalone. They are named after their original file names.
 
