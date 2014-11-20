@@ -34,7 +34,7 @@ Icarus пример развернутой верстки
 
 * [Less/CSS]
 * [Include]
-
+* [Изображения]
 
 
 ### Другие директории
@@ -64,10 +64,7 @@ npm i grunt-html-validation --save-dev
 * старайтесь по-максимуму уменьшить количество тегов в верстке
 
 В изображениях:
-* в c - лежат контентные картинки, в
-* в d - картинки для отдельных блоков, форм или навигаций.
-* в i - иконки
-* в example - картинки которые используются только на верстке для проверки.
+
 
 ## Плагины
 
@@ -123,6 +120,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[Изображения]: https://github.com/zoom-samara/icarus-template/tree/master/app/img
 [Include]: https://github.com/zoom-samara/icarus-template/tree/master/app/include
 [Less/CSS]: https://github.com/zoom-samara/icarus-template/tree/master/app/css
 [GeneratorIcarus]: https://github.com/zoom-samara/generator-icarus
