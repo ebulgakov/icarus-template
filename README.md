@@ -33,22 +33,14 @@ Icarus пример развернутой верстки
 ## Немного о самой верстке
 
 * [Less/CSS]
+* [Include]
 
 
 
 ### Другие директории
-Директория "include" - вставляются повторяющиеся элементы, чтобы много раз одно и тоже не писать
 Директория "mocks" - эмулируют ответы с сервера
 
-## Настройка символических ссылок
 
-Если верстка делается накомпьютере с Windows, то мои symlinks надо будет удалить, и подставить свои:
-```sh
-mklink /D bower_components C:\markup\project_html\app\bower_components
-mklink /D css C:\markup\project_html\app\css
-mklink /D js C:\markup\project_html\app\js
-mklink /D img C:\markup\project_html\app\img
-```
 
 ## ВАЖНО!
 Все JS/CSS/HTML плагины устанавливать через bower с ключом --save
@@ -131,6 +123,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[Include]: https://github.com/zoom-samara/icarus-template/tree/master/app/include
 [Less/CSS]: https://github.com/zoom-samara/icarus-template/tree/master/app/css
 [GeneratorIcarus]: https://github.com/zoom-samara/generator-icarus
 [Yeoman]: http://yeoman.io/
