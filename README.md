@@ -103,14 +103,6 @@ npm i grunt-html-validation --save-dev
 ## Todo's
 
  * Написать тесты
- * Добавить поддержку [AngularJS]
- * Добавить поддержку  [RequireJS]
-
-## Если что-то пошло не так, как надо
-Если вы обнаружили ошибку или хотите  добавить пожелание, есть два проверенных способа:
-
-* Завести задачу в [Issues]
-* Если вдруг не отвечаю,написать сразу на zoom81@ya.ru
 
 
 License
@@ -129,8 +121,6 @@ MIT
 [nodeJS]:http://nodejs.org
 [Twitter Bootstrap]:http://twitter.github.com/bootstrap/
 [jQuery]:http://jquery.com
-[AngularJS]:http://angularjs.org/
-[RequireJS]:http://requirejs.org/
 [gruntJS]:http://gruntjs.com/
 [normalize.css]: http://necolas.github.io/normalize.css/
 [modernizr]:http://modernizr.com/
