@@ -35,6 +35,7 @@ Icarus пример развернутой верстки
 * [Less/CSS]
 * [Include]
 * [Изображения]
+* [Mocks]
 * [Dist] - по-умолчанию в .gitigore. Директория с собранным проектом. Обычно для него делается своя ветка в git-репозитории 
 
 
@@ -105,6 +106,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[Mocks]: https://github.com/zoom-samara/icarus-template/tree/master/app/mocks
 [Dist]: https://github.com/zoom-samara/icarus-template/tree/master/dist
 [Issues]: https://github.com/zoom-samara/generator-icarus/issues
 [Изображения]: https://github.com/zoom-samara/icarus-template/tree/master/app/img
