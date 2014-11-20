@@ -32,6 +32,7 @@ Icarus пример развернутой верстки
 
 ## Немного о самой верстке
 
+* [HTML]
 * [Less/CSS]
 * [Include]
 * [Изображения]
@@ -51,13 +52,7 @@ bower i jquery --save
 ```sh
 npm i grunt-html-validation --save-dev
 ```
-## Дополнительная информация
 
-В html-верстке, можете верстать, как угодно, однако есть свои нюансы:
-
-* классы без префикса вне элемента лежать не могут, это может создать угрозу потерять место, где лежит этот класс
-* если элемент встречается на верстке больше одного раза – уводить его в include
-* старайтесь по-максимуму уменьшить количество тегов в верстке
 
 
 ## Плагины
@@ -106,6 +101,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[HTML]: https://github.com/zoom-samara/icarus-template/tree/master/app
 [Mocks]: https://github.com/zoom-samara/icarus-template/tree/master/app/mocks
 [Dist]: https://github.com/zoom-samara/icarus-template/tree/master/dist
 [Issues]: https://github.com/zoom-samara/generator-icarus/issues
