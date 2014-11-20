@@ -35,11 +35,7 @@ Icarus пример развернутой верстки
 * [Less/CSS]
 * [Include]
 * [Изображения]
-
-
-### Другие директории
-Директория "mocks" - эмулируют ответы с сервера
-
+* [Dist] - по-умолчанию в .gitigore. Директория с собранным проектом. Обычно для него делается своя ветка в git-репозитории 
 
 
 ## ВАЖНО!
@@ -56,14 +52,11 @@ npm i grunt-html-validation --save-dev
 ```
 ## Дополнительная информация
 
-Внутри отдельных модулей box, nav, form и т.д. можете писать, как считаете нужным.
-Однако есть свои нюансы:
+В html-верстке, можете верстать, как угодно, однако есть свои нюансы:
 
 * классы без префикса вне элемента лежать не могут, это может создать угрозу потерять место, где лежит этот класс
 * если элемент встречается на верстке больше одного раза – уводить его в include
 * старайтесь по-максимуму уменьшить количество тегов в верстке
-
-В изображениях:
 
 
 ## Плагины
@@ -112,6 +105,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[Dist]: https://github.com/zoom-samara/icarus-template/tree/master/dist
 [Issues]: https://github.com/zoom-samara/generator-icarus/issues
 [Изображения]: https://github.com/zoom-samara/icarus-template/tree/master/app/img
 [Include]: https://github.com/zoom-samara/icarus-template/tree/master/app/include
