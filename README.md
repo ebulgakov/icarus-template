@@ -109,7 +109,7 @@ npm i grunt-html-validation --save-dev
 ## Если что-то пошло не так, как надо
 Если вы обнаружили ошибку или хотите  добавить пожелание, есть два проверенных способа:
 
-* Завести задачу в Issues
+* Завести задачу в [Issues]
 * Если вдруг не отвечаю,написать сразу на zoom81@ya.ru
 
 
@@ -120,6 +120,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+[Issues]: https://github.com/zoom-samara/generator-icarus/issues
 [Изображения]: https://github.com/zoom-samara/icarus-template/tree/master/app/img
 [Include]: https://github.com/zoom-samara/icarus-template/tree/master/app/include
 [Less/CSS]: https://github.com/zoom-samara/icarus-template/tree/master/app/css
