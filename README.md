@@ -69,8 +69,8 @@ npm i grunt-html-validation --save-dev
 * grunt-contrib-cssmin
 * grunt-contrib-htmlmin
 * grunt-contrib-imagemin
-* grunt-contrib-jshint"
-* grunt-contrib-less"
+* grunt-contrib-jshint
+* grunt-contrib-less
 * grunt-contrib-uglify
 * grunt-contrib-watch
 * grunt-html-validation
